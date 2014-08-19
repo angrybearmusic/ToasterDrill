@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\ToasterDrill\ToasterDrill\bin\ToasterDrill.dll.config
+c:\users\user\documents\visual studio 2013\Projects\ToasterDrill\ToasterDrill\bin\ToasterDrill.dll
+c:\users\user\documents\visual studio 2013\Projects\ToasterDrill\ToasterDrill\bin\ToasterDrill.pdb
+c:\users\user\documents\visual studio 2013\Projects\ToasterDrill\ToasterDrill\obj\Debug\ToasterDrill.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\ToasterDrill\ToasterDrill\obj\Debug\ToasterDrill.dll
+c:\users\user\documents\visual studio 2013\Projects\ToasterDrill\ToasterDrill\obj\Debug\ToasterDrill.pdb
